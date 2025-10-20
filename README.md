@@ -55,7 +55,32 @@ A user-friendly design reduces friction in the booking process, improves user sa
 3. Commit and push your changes to GitHub.  
 4. Use feature branches and meaningful commit messages as you continue development.  
 
+##  Project Roles and Responsibilities
 
+| Role | Responsibilities |
+|------|-----------------|
+| **Project Manager** | Oversees the project timeline, coordinates the team, manages deliverables, and ensures deadlines are met. |
+| **Frontend Developers** | Implement UI components, ensure responsive design, integrate with APIs, and maintain frontend code quality. |
+| **Backend Developers** | Build APIs, manage database operations, implement business logic, and ensure server-side reliability. |
+| **Designers** | Create mockups, maintain the design system, ensure visual consistency, and optimize user experience. |
+| **QA/Testers** | Write and execute test cases, perform manual and automated testing, report bugs, and verify fixes. |
+| **DevOps Engineers** | Manage deployment pipelines, maintain server infrastructure, and ensure CI/CD workflows are efficient. |
+| **Product Owner** | Define project requirements, prioritize features, and act as liaison between stakeholders and the team. |
+| **Scrum Master** | Facilitate agile processes, organize meetings, remove blockers, and help the team adhere to best practices. |
+
+---
+
+##  UI Component Patterns
+
+### Planned Components
+- **Navbar**
+  - Logo, search bar, user navigation, responsive menu.
+- **Property Card**
+  - Property image, price, location, rating, favorite button, and responsive layout.
+- **Footer**
+  - Site links, company information, social media links, copyright information.
+
+These components are designed for **reusability** and **visual consistency** across the application, ensuring a scalable and maintainable frontend structure.
 
 
 
